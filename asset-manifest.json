@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-23/static/css/main.7b7b9eeb.css",
-    "main.js": "/react-23/static/js/main.d2fbff7f.js",
-    "index.html": "/react-23/index.html",
-    "main.7b7b9eeb.css.map": "/react-23/static/css/main.7b7b9eeb.css.map",
-    "main.d2fbff7f.js.map": "/react-23/static/js/main.d2fbff7f.js.map"
+    "main.css": "/react-23.git/static/css/main.7b7b9eeb.css",
+    "main.js": "/react-23.git/static/js/main.d2fbff7f.js",
+    "index.html": "/react-23.git/index.html",
+    "main.7b7b9eeb.css.map": "/react-23.git/static/css/main.7b7b9eeb.css.map",
+    "main.d2fbff7f.js.map": "/react-23.git/static/js/main.d2fbff7f.js.map"
   },
   "entrypoints": [
     "static/css/main.7b7b9eeb.css",
