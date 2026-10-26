@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/react-23/static/css/main.7b7b9eeb.css",
-    "main.js": "/react-23/static/js/main.d2fbff7f.js",
+    "main.css": "/react-23/static/css/main.b003de06.css",
+    "main.js": "/react-23/static/js/main.49440768.js",
+    "static/media/big01.png": "/react-23/static/media/big01.19daf98d101deaf2325f.png",
+    "static/media/big03.png": "/react-23/static/media/big03.80abb8e337d65b7b21da.png",
+    "static/media/big02.png": "/react-23/static/media/big02.4de38c8d7fdfe72379de.png",
+    "static/media/small01.png": "/react-23/static/media/small01.aac4391c73c72f6bca01.png",
+    "static/media/small02.png": "/react-23/static/media/small02.2abbd64e3ba426c47807.png",
+    "static/media/small03.png": "/react-23/static/media/small03.39829e6c5374e6c4eb66.png",
     "index.html": "/react-23/index.html",
-    "main.7b7b9eeb.css.map": "/react-23/static/css/main.7b7b9eeb.css.map",
-    "main.d2fbff7f.js.map": "/react-23/static/js/main.d2fbff7f.js.map"
+    "main.b003de06.css.map": "/react-23/static/css/main.b003de06.css.map",
+    "main.49440768.js.map": "/react-23/static/js/main.49440768.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b7b9eeb.css",
-    "static/js/main.d2fbff7f.js"
+    "static/css/main.b003de06.css",
+    "static/js/main.49440768.js"
   ]
 }
