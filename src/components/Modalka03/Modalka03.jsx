@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { ImCross } from "react-icons/im";
 
+import { CloseBtn } from './Modalka03.styled';
+
 import small01 from '../../assets/small01.png';
 import small02 from '../../assets/small02.png';
 import small03 from '../../assets/small03.png';
@@ -66,9 +68,9 @@ const ItemInList = ({ url, toClick }) => {
 const ModalWin = ({ imgBig, toClose }) => {
     return (
         <div>
-                <div onClick = {() => toClose( null )}>
+                <CloseBtn onClick = {() => toClose( null )}>
                     <ImCross />
-                </div>
+                </CloseBtn>
              <img src ={ imgBig.large } alt = "forest"/>
         </div>
     )
